@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel><title>Interactivity</title><link>http://example.com/blog/index.html</link>
+<description>A blog that talks about the two main types of interactivity in video games</description><language>en</language>
+<lastBuildDate></lastBuildDate>
+<pubDate></pubDate>
+<atom:link href="http://example.com/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Spyridwn Politis (p2020104) Blog
+</title><description><![CDATA[
+
+<p>In video games the main forms of interaction that a player can have are 2d and 3d graphics. The difference between them is that in 2d graphics the user exists only in the x, y (length and height), while in the 3d the z axis is added where the depth is.</p>
+
+<p>Tags: <a href='tag_interactivity.html'>interactivity</a>, <a href='tag_2d.html'>2d</a>, <a href='tag_3d.html'>3d</a>, <a href='tag_graphics.html'>graphics</a>, <a href='tag_kiss-linux.html'>kiss-linux</a>, <a href='tag_blog.html'>blog</a></p>
+<!-- text end -->
+]]></description><link>http://example.com/blog/22453.html</link>
+<guid>http://example.com/blog/./22453.html</guid>
+<dc:creator>p2020104 Spyridwn Politis</dc:creator>
+<pubDate>./22453.html fb02a22bf36966e1 255 ef53 4096 2425165 1527041 1398453 622592 479262</pubDate></item>
+</channel></rss>

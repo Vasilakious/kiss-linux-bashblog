@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel><title>Software blog</title><link>http://example.com/blog/index.html</link>
+<description>A blog about turtles and carrots</description><language>en</language>
+<lastBuildDate></lastBuildDate>
+<pubDate></pubDate>
+<atom:link href="http://example.com/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+K1SS LINUX BLOG BY P2019214 (5o DELIVERABLE)
+</title><description><![CDATA[
+
+<p>Kiss Linux is a minimalist and lightweight Linux distribution that prioritises simplicity and user control. It follows the "Keep It Simple, Stupid" philosophy and aims to provide a stable and customisable platform for advanced users.</p>
+
+<p>Tags: <a href='tag_sw-project.html'>sw-project</a>, <a href='tag_linux.html'>linux</a>, <a href='tag_kiss-linux.html'>kiss-linux</a>, <a href='tag_interactivity.html'>interactivity</a></p>
+<!-- text end -->
+]]></description><link>http://example.com/blog/21813.html</link>
+<guid>http://example.com/blog/./21813.html</guid>
+<dc:creator>Xaris p2019214</dc:creator>
+<pubDate>./21813.html fb02a22bf36966e1 255 ef53 4096 2425165 1527044 1398456 622592 479480</pubDate></item>
+<item><title>
+Title on this line
+</title><description><![CDATA[
+
+<p>The rest of the text file is an <b>html</b> blog post. The process will continue as soon
+as you exit your editor.</p>
+
+<p>Tags: <a href='tag_keep-this-tag-format.html'>keep-this-tag-format</a>, <a href='tag_tags-are-optional.html'>tags-are-optional</a>, <a href='tag_example.html'>example</a></p>
+<!-- text end -->
+]]></description><link>http://example.com/blog/9309.html</link>
+<guid>http://example.com/blog/./9309.html</guid>
+<dc:creator>Xaris p2019214</dc:creator>
+<pubDate>./9309.html fb02a22bf36966e1 255 ef53 4096 2425165 1527044 1398456 622592 479480</pubDate></item>
+<item><title>
+Title on this line
+</title><description><![CDATA[
+
+<p>The rest of the text file is an <b>html</b> blog post. The process will continue as soon
+as you exit your editor.</p>
+
+<p>Tags: <a href='tag_keep-this-tag-format.html'>keep-this-tag-format</a>, <a href='tag_tags-are-optional.html'>tags-are-optional</a>, <a href='tag_example.html'>example</a></p>
+<!-- text end -->
+]]></description><link>http://example.com/blog/22103.html</link>
+<guid>http://example.com/blog/./22103.html</guid>
+<dc:creator>Xaris p2019214</dc:creator>
+<pubDate>./22103.html fb02a22bf36966e1 255 ef53 4096 2425165 1527044 1398456 622592 479480</pubDate></item>
+<item><title>
+This is sw blog
+</title><description><![CDATA[
+
+This is for  week 6
+
+Tags: village, cock, sw, fu, urmom
+
+<!-- text end -->
+]]></description><link>http://example.com/blog/23513.html</link>
+<guid>http://example.com/blog/./23513.html</guid>
+<dc:creator>Xaris p2019214</dc:creator>
+<pubDate>./23513.html fb02a22bf36966e1 255 ef53 4096 2425165 1527044 1398456 622592 479480</pubDate></item>
+</channel></rss>

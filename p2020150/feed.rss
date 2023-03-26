@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel><title>Software</title><link>http://example.com/blog/index.html</link>
+<description>blog Example</description><language>en</language>
+<lastBuildDate></lastBuildDate>
+<pubDate></pubDate>
+<atom:link href="http://example.com/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+This is my Blog
+</title><description><![CDATA[
+
+<p>This blog is for week 6 of software.</p>
+
+<p>Tags: <a href='tag_sw.html'>sw</a>, <a href='tag_blog.html'>blog</a></p>
+<!-- text end -->
+]]></description><link>http://example.com/blog/11584.html</link>
+<guid>http://example.com/blog/./11584.html</guid>
+<dc:creator>Kalamatas Athanasios P2020150</dc:creator>
+<pubDate>./11584.html fb02a22bf36966e1 255 ef53 4096 2425165 1527167 1398579 622592 479386</pubDate></item>
+</channel></rss>

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
-<channel><title>Software blog</title><link>http://example.com/blog/index.html</link>
-<description>A blog about turtles and carrots</description><language>en</language>
+<channel><title>Paradoteo 6 BashBlog P2020132</title><link>http://example.com/blog/index.html</link>
+<description>Largest Living Organism</description><language>en</language>
 <lastBuildDate></lastBuildDate>
 <pubDate></pubDate>
 <atom:link href="http://example.com/blog/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
-Paradoteo 6 Vasileios Katotomichelakis P2020132 Kiss Linux Blog
+Paradoteo 6 Vasileios Katotomichelakis
 </title><description><![CDATA[
 
-<p>This blog was created on Kiss Linux by Vasileios Katotomichelakis to showcase the potential of the bashblog package created by cfenollosa. </p>
+<p>Did you know that the largest living organism in the world is not a whale, elephant, or even a dinosaur , but a fugus?The Armillaria ostoyae,also known as the honey mushrom, covers an area of over 2,200 acres(8,9 square kilometers) i Oregon's Blue Mountains. This massive organism is estimated to be around 2,400 years old and is still growing to this day. While it may not be the most glamorous or well-known organism, the honey mushroom is a estament to the incredible diversity and complexity of life on our planet.</p>
 
-<p>Tags: <a href='tag_bashblog.html'>bashblog</a>, <a href='tag_paradoteo-6.html'>paradoteo-6</a></p>
+<p>Tags: <a href='tag_paradoteo-6.html'>paradoteo-6</a>, <a href='tag_sw.html'>sw</a>, <a href='tag_bashblog.html'>bashblog</a>, <a href='tag_kiss-linux.html'>kiss-linux</a>, <a href='tag_largest-living-organism.html'>largest-living-organism</a>, <a href='tag_fungus.html'>fungus</a></p>
 <!-- text end -->
-]]></description><link>http://example.com/blog/21099.html</link>
-<guid>http://example.com/blog/./21099.html</guid>
-<dc:creator>Xaris p2019214</dc:creator>
-<pubDate>./21099.html fb02a22bf36966e1 255 ef53 4096 2425165 1526984 1398396 622592 479423</pubDate></item>
+]]></description><link>http://example.com/blog/9883.html</link>
+<guid>http://example.com/blog/./9883.html</guid>
+<dc:creator>P2020132 Vasileios Katotomichelakis</dc:creator>
+<pubDate>./9883.html fb02a22bf36966e1 255 ef53 4096 2425165 1526913 1398325 622592 479355</pubDate></item>
 </channel></rss>

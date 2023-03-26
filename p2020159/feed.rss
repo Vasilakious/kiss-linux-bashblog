@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
-<channel><title>Software blog</title><link>http://example.com/blog/index.html</link>
-<description>A blog about turtles and carrots</description><language>en</language>
+<channel><title>AlexIoanP2020159</title><link>http://example.com/blog/index.html</link>
+<description>Bashblog command written by me</description><language>en</language>
 <lastBuildDate></lastBuildDate>
 <pubDate></pubDate>
 <atom:link href="http://example.com/blog/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
-P2020159 Alexandros Ioannidis Kiss-Linux-Blog
+Bashblog in Kiss-Linux (6o Paradoteo)
 </title><description><![CDATA[
 
-<p>This is the bashblog command which allows somebody to create a blog through a nano format.</p>
+<p>Bashblog is a command that allows you to create a "blog" through a combination of multiple, yet simplistic html files .</p>
 
-<p>Tags: <a href='tag_sw.html'>sw</a>, <a href='tag_bashblog.html'>bashblog</a>, <a href='tag_kiss-linux.html'>kiss-linux</a></p>
+<p>Tags: <a href='tag_sw.html'>sw</a>, <a href='tag_kisslinux.html'>kisslinux</a>, <a href='tag_bashblog..html'>bashblog.</a></p>
 <!-- text end -->
-]]></description><link>http://example.com/blog/7789.html</link>
-<guid>http://example.com/blog/./7789.html</guid>
-<dc:creator>Xaris p2019214</dc:creator>
-<pubDate>./7789.html fb02a22bf36966e1 255 ef53 4096 2425165 1526994 1398406 622592 479433</pubDate></item>
+]]></description><link>http://example.com/blog/5200.html</link>
+<guid>http://example.com/blog/./5200.html</guid>
+<dc:creator>Alexandros Ioannidis (p2020159)</dc:creator>
+<pubDate>./5200.html fb02a22bf36966e1 255 ef53 4096 2425165 1526916 1398328 622592 479358</pubDate></item>
 </channel></rss>
